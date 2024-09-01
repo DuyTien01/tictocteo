@@ -1,0 +1,27 @@
+{
+	"BUILD_DIR" : "C:/Hoc_Tap/LAP_TRINH/QT/TicTocTeo/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/TicTocTeo_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Hoc_Tap/LAP_TRINH/QT/TicTocTeo/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Hoc_Tap/LAP_TRINH/QT/TicTocTeo/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Hoc_Tap/LAP_TRINH/QT/TicTocTeo",
+	"CMAKE_SOURCE_DIR" : "C:/Hoc_Tap/LAP_TRINH/QT/TicTocTeo",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "C:/Hoc_Tap/LAP_TRINH/QT/TicTocTeo/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/TicTocTeo_autogen/include",
+	"INPUTS" : 
+	[
+		"C:/Hoc_Tap/LAP_TRINH/QT/TicTocTeo/img/about.jpg",
+		"C:/Hoc_Tap/LAP_TRINH/QT/TicTocTeo/img/images.png",
+		"C:/Hoc_Tap/LAP_TRINH/QT/TicTocTeo/img/download.png"
+	],
+	"LOCK_FILE" : "C:/Hoc_Tap/LAP_TRINH/QT/TicTocTeo/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/TicTocTeo_autogen.dir/AutoRcc_resource_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "resource" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resource.cpp",
+	"RCC_EXECUTABLE" : "C:/Cai_ung_dung/QT/6.7.2/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Hoc_Tap/LAP_TRINH/QT/TicTocTeo/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/TicTocTeo_autogen.dir/AutoRcc_resource_EWIEGA46WW_Used.txt",
+	"SOURCE" : "C:/Hoc_Tap/LAP_TRINH/QT/TicTocTeo/resource.qrc",
+	"USE_BETTER_GRAPH" : false,
+	"VERBOSITY" : 0
+}
